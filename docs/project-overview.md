@@ -1,6 +1,3 @@
-
-# docs/project-overview.md
-
 # 🌍 OH Radical 글로벌 브랜드 플랫폼 구축 기획안
 
 > Human First, Earth Always
